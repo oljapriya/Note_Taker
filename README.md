@@ -36,9 +36,9 @@ The following API routes should be created:
 ![Screen Shot 2021-06-16 at 8 33 09 AM](https://user-images.githubusercontent.com/79331882/122223247-fff03480-ce80-11eb-8e9c-e135f864cfeb.png)
 
 ## Instalation 
-*npm install --save
-*node server.js
-*localhost:3000
+* npm install --save
+* node server.js
+* localhost:3000
 
 ## Usage 
 This project is intended to be used for note-taking and saving.
