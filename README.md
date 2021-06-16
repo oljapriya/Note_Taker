@@ -9,7 +9,7 @@
 - [Test](#Test)
 
 
-
+## [Deployed Application on Heroku](https://notetaker1111111111.herokuapp.com/)
 ## Description
 
 Create an application that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
@@ -40,7 +40,7 @@ The following API routes should be created:
 * node server.js
 * localhost:3000
 
-### [Deployed Application on Heroku](https://notetaker1111111111.herokuapp.com/)
+
 
 ## Usage 
 This project is intended to be used for note-taking and saving.
