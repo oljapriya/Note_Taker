@@ -30,7 +30,7 @@ The following API routes should be created:
 * `GET /api/notes` reads the `db.json` file and return all saved notes as JSON.
 
 * `POST /api/notes` receives a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client.
-## [Deployed Application on Heroku](https://notetaker1111111111.herokuapp.com/)
+
 ## Screenshots
 ![Screen Shot 2021-06-16 at 8 32 32 AM](https://user-images.githubusercontent.com/79331882/122223233-fcf54400-ce80-11eb-8c4e-b7d62ec66c19.png)
 ![Screen Shot 2021-06-16 at 8 33 09 AM](https://user-images.githubusercontent.com/79331882/122223247-fff03480-ce80-11eb-8e9c-e135f864cfeb.png)
@@ -39,6 +39,8 @@ The following API routes should be created:
 * npm install --save
 * node server.js
 * localhost:3000
+
+### [Deployed Application on Heroku](https://notetaker1111111111.herokuapp.com/)
 
 ## Usage 
 This project is intended to be used for note-taking and saving.
