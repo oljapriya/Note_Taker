@@ -16,8 +16,7 @@ Create an application that can be used to write and save notes. This application
 
 The application’s front end has already been created. I build the back end and connected the two.
 
-Deployed Application on Heroku
-https://notetaker1111111111.herokuapp.com/
+[Deployed Application on Heroku](https://notetaker1111111111.herokuapp.com/)
 
 
 * `GET /notes` returns the `notes.html` file.
